@@ -46,7 +46,7 @@ loginFormElement.addEventListener('submit', function(event) {
 
     goToHome();
   } else {
-        /* Comment : Namun jika tidak sesuai maka akan menampilkan informasi bahwa input salah. */
+        /* Comment : Namun jika tidak sesuai maka akan menampilkan informasi bahwa input salah */
 
     showPopUp();
   }
